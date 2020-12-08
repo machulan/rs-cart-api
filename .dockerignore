@@ -2,3 +2,5 @@
 /dist
 # node modules
 /node_modules
+# AWS Elastic Beanstalk folder
+.elasticbeanstalk
